@@ -23,7 +23,7 @@ module.exports = {
 
                     }
                 ]
-                // Want to do something like this to generate a send CSS theme bundle
+                // Want to do something like this to generate a second CSS theme bundle based on the shared CSS input extracted from the JS
                 // use: [
                 //     MiniCssExtractPlugin.loader,
                 //     "css-loader",
