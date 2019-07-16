@@ -8,4 +8,14 @@ Execute following
 npm install
 npm run build
 ````
-Note file `dist/theme1.css` is generated with contents of index.css
+
+View `dist` for output.
+
+Desired output:
+
+```sh
+dist/
+|_ light-theme.css
+|_ dark-theme.css
+|_ main.js
+```
