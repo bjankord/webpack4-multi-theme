@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/james-s-turner/webpack-mult-theme.git"
+    "url": "git+https://github.com/bjankord/webpack-mult-theme.git"
   },
-  "author": "James Turner <james.shaw.turner@gmail.com> (http://github.com/james-s-turner)",
+  "author": "Brett Jankord <bjankord@gmail.com> (http://github.com/bjankord)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/james-s-turner/webpack-mult-theme/issues"
+    "url": "https://github.com/bjankord/webpack-mult-theme/issues"
   },
-  "homepage": "https://github.com/james-s-turner/webpack-mult-theme#readme",
+  "homepage": "https://github.com/bjankord/webpack-mult-theme#readme",
   "dependencies": {
-    "css-loader": "^0.28.11",
-    "mini-css-extract-plugin": "^0.2.0",
-    "node-sass": "^4.7.2",
-    "sass-loader": "^6.0.7",
-    "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.12"
+    "css-loader": "^3.0.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
   }
 }

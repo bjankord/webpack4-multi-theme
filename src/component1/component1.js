@@ -1,3 +1,3 @@
 import './component1.scss';
 
-console.log('Hello from componet1');
+console.log('Hello from component 1');
